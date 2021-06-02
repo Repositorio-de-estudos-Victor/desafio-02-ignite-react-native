@@ -33,8 +33,6 @@ export function Home() {
     } else {
       return;
     }
-
-    
   }
 
   useFocusEffect(useCallback(() => {
